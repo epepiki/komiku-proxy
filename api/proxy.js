@@ -1,6 +1,6 @@
 import sharp from 'sharp';
 
-const ALLOWED_DOMAINS = ['img.komiku.org', 'cdn.komiku.co.id', 'img.komiku.id'];
+const ALLOWED_DOMAINS = ['img.komiku.org', 'cdn.komiku.co.id', 'img.komiku.id', 'minio.imgkc1.my.id'];
 const DEFAULT_WIDTH = 800;
 const DEFAULT_QUALITY = 75;
 
